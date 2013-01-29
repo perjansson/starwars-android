@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">“星球大战”</string>
+    <string name="match_picture">按下按鈕，匹配正確的圖片的聲音</string>
+    <string name="match_yes">是的，好工作！</string>
+    <string name="match_no">不行，再試一次！</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Star Wars</string>
+    <string name="match_picture">Paina nappia ja ottelu oikea kuva ääni</string>
+    <string name="match_yes">Kyllä, hyvää työtä!</string>
+    <string name="match_no">Ei, yritä uudelleen!</string>
+</resources>

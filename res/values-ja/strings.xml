@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">スター·ウォーズ</string>
+    <string name="match_picture">ボタンを押して、サウンドに正しい画像と一致</string>
+    <string name="match_yes">はい、良い仕事！</string>
+    <string name="match_no">いいえ、再度お試し下さい！</string>
+</resources>

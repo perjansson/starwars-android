@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">स्टार वार्स</string>
+    <string name="match_picture">प्रेस बटन और ध्वनि करने के लिए सही तस्वीर मैच</string>
+    <string name="match_yes">हाँ, अच्छा काम करते हैं!</string>
+    <string name="match_no">नहीं, फिर से कोशिश करो!</string>
+</resources>

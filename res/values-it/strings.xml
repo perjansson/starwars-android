@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Star Wars</string>
+    <string name="match_picture">Premere il pulsante e abbinare un\'immagine corretta del suono</string>
+    <string name="match_yes">Sì, buon lavoro!</string>
+    <string name="match_no">No, riprova!</string>
+</resources>

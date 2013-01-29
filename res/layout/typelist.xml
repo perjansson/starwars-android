@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ViewFlipper xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/flipper" android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+
+	<LinearLayout android:id="@+id/animalLayout" android:background="#000"
+		android:orientation="vertical" android:layout_width="fill_parent"
+		android:layout_height="fill_parent" android:layout_gravity="center_vertical|center_horizontal"
+		android:gravity="center_vertical|center_horizontal">
+
+		<GridView android:id="@+id/animalGridview"
+			android:layout_width="fill_parent" android:layout_height="fill_parent"
+			android:numColumns="2" android:verticalSpacing="20dp"
+			android:horizontalSpacing="20dp" android:padding="10dp"
+			android:stretchMode="columnWidth" android:gravity="center"
+			android:layout_weight="0">
+		</GridView>
+
+	</LinearLayout>
+
+	<LinearLayout android:id="@+id/vehicleLayout" android:background="#000"
+		android:orientation="vertical" android:layout_width="fill_parent"
+		android:layout_height="fill_parent" android:layout_gravity="center_vertical|center_horizontal"
+		android:gravity="center_vertical|center_horizontal">
+
+		<GridView android:id="@+id/autoGridview"
+			android:layout_width="fill_parent" android:layout_height="fill_parent"
+			android:numColumns="2" android:verticalSpacing="20dp"
+			android:horizontalSpacing="20dp" android:stretchMode="columnWidth"
+			android:gravity="center" android:layout_weight="0">
+		</GridView>
+
+	</LinearLayout>
+
+</ViewFlipper>

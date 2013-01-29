@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Star Wars</string>
+    <string name="match_picture">Stiskněte tlačítko a zápas správný obraz na zvuk</string>
+    <string name="match_yes">Ano, dobrá práce!</string>
+    <string name="match_no">Ne, zkuste to znovu!</string>
+</resources>

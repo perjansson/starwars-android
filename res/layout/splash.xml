@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/mainSplashLayout" android:background="#000"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent" android:layout_gravity="center_vertical|center_horizontal"
+	android:gravity="center_vertical|center_horizontal">
+
+	<LinearLayout android:id="@+id/rotateSplashLayout" android:orientation="vertical"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"
+		android:gravity="center_vertical|center_horizontal">
+
+		<ImageView android:id="@+id/splashImage" android:src="@drawable/lukeskywalker_large"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:gravity="center_vertical|center_horizontal" />
+
+		<TextView android:id="@+id/splashAppName" android:textSize="45sp"
+			android:textColor="#FFF" android:layout_width="fill_parent"
+			android:layout_height="wrap_content" android:text="@string/app_name"
+			android:gravity="center_vertical|center_horizontal" />
+
+	</LinearLayout>
+
+</LinearLayout>

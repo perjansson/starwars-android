@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">스타 워즈</string>
+    <string name="match_picture">보도 버튼 소리를 정확한 그림과 일치</string>
+    <string name="match_yes">그래, 잘했다!</string>
+    <string name="match_no">아니, 다시 시도!</string>
+</resources>
